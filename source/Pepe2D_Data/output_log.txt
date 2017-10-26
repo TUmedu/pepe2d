@@ -1,0 +1,105 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.15.10.2712]
+    Renderer: Intel(R) HD Graphics 4000
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\USER\Downloads\tutorial-2d-game-unity-master\source\Pepe2D_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.933656 ms
+kuniosample
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.699710 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.367044 ms (FindLiveObjects: 0.030184 ms CreateObjectMapping: 0.020525 ms MarkObjects: 0.309693 ms  DeleteObjects: 0.006036 ms)
+
+kuniosample
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.680074 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.362215 ms (FindLiveObjects: 0.032599 ms CreateObjectMapping: 0.022336 ms MarkObjects: 0.300638 ms  DeleteObjects: 0.005433 ms)
+
+kuniosample
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.749785 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.344708 ms (FindLiveObjects: 0.030184 ms CreateObjectMapping: 0.019318 ms MarkObjects: 0.287961 ms  DeleteObjects: 0.006036 ms)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+Scene 'Menu' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 140)
+
+kuniosample
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.849998 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 446.
+Total: 0.350745 ms (FindLiveObjects: 0.026562 ms CreateObjectMapping: 0.024751 ms MarkObjects: 0.292790 ms  DeleteObjects: 0.006036 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2e2c -> priority: 1 
+  Thread -> id: 314c -> priority: 1 
