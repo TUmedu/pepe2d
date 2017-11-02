@@ -163,7 +163,8 @@ Prefab:
       propertyPath: m_SortingLayerID
       value: -1299802875
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 11400000, guid: a52499a02c202a64a8d0bc85aa244877, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: a52499a02c202a64a8d0bc85aa244877, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &121943544
@@ -2042,6 +2043,23 @@ Transform:
   m_Father: {fileID: 1100498789}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2012132418 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100008, guid: a52499a02c202a64a8d0bc85aa244877, type: 2}
+  m_PrefabInternal: {fileID: 83103672}
+--- !u!114 &2012132419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2012132418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f5ca3b2392efce4ab80580c4be5d8fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 10
+  isEnemy: 1
 --- !u!1 &2104701475
 GameObject:
   m_ObjectHideFlags: 0

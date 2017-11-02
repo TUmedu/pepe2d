@@ -12,5 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Stage1.unity
     guid: 9ec437275e9d684489666a5812adb7a2
   - enabled: 1
-    path: Assets/addscene/kuniosample.unity
+    path: Assets/add/addscene/kuniosample.unity
     guid: 237ff60fba689f544a9ce88c5d42459a
+  - enabled: 1
+    path: Assets/add/addscene/clear.unity
+    guid: 933cf05c9f16dc1448bb8a2291f153aa
