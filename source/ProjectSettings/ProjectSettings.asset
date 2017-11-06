@@ -10,7 +10,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: Pixelnest Studio
+  companyName: pepe
   productName: A 2D game Unity tutorial
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -137,7 +137,7 @@ PlayerSettings:
   protectGraphicsMemory: 0
   useHDRDisplay: 0
   applicationIdentifier:
-    Android: com.Company.ProductName
+    Android: com.Company.jkName
     Standalone: unity.Pixelnest Studio.A 2D game Unity tutorial
     Tizen: com.Company.ProductName
     iOS: com.Company.ProductName

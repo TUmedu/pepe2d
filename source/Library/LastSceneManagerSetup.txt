@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/add/addscene/kuniosample.unity
+- path: Assets/add/addscene/Menu2.unity
   isLoaded: 1
   isActive: 1
